@@ -1,0 +1,2 @@
+0 Local Limpo
+1 Local Sujo
